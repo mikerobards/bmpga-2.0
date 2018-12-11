@@ -23,3 +23,28 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.section {
+    background: white;
+    margin: 15px auto;
+    border: 2px solid black;
+    height: 600px;
+    color: black;
+}
+
+#logo {
+    width: 50%;
+    margin: 70px;
+}
+
+hr.style-four {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+    width: 85%;
+}
+
+#sharp {
+    margin: 50px;
+}
